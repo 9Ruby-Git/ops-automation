@@ -1,11 +1,11 @@
 {
-  "updated": "2026-03-09T19:51:32Z",
+  "updated": "2026-03-09T20:02:21Z",
   "gateway": {
-    "acp_ws": "ws://bore.pub:24970",
-    "acp_http": "http://bore.pub:24970",
+    "acp_ws": "ws://bore.pub:46858",
+    "acp_http": "http://bore.pub:46858",
     "token": "minimax-agent"
   },
   "bots": {
-    "webhook_base": "https://pens-examined-finish-riders.trycloudflare.com"
+    "webhook_base": "https://metropolitan-theatre-owners-emily.trycloudflare.com"
   }
 }
