@@ -41,7 +41,7 @@ if ($currentPath -notlike "*$scriptsDir*") {
 
 # 3. Connect to ONE gateway via OpenClaw ACP
 Write-Host "🔌 Step 2: Connecting to ONE (Ruby) gateway..."
-$gatewayUrl = "ws://bore.pub:4056"
+$gatewayUrl = "ws://bore.pub:24970"
 $gatewayToken = "minimax-agent"
 Write-Host "  Gateway: $gatewayUrl"
 Write-Host "  To connect: openclaw acp --url $gatewayUrl --token $gatewayToken"
