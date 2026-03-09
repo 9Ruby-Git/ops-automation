@@ -1,0 +1,11 @@
+{
+  "updated": "2026-03-09T19:41:10Z",
+  "gateway": {
+    "acp_ws": "ws://bore.pub:24970",
+    "acp_http": "http://bore.pub:24970",
+    "token": "minimax-agent"
+  },
+  "bots": {
+    "webhook_base": "https://pens-examined-finish-riders.trycloudflare.com"
+  }
+}
