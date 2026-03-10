@@ -1,8 +1,8 @@
 {
-  "updated": "2026-03-10T03:16:35Z",
+  "updated": "2026-03-10T03:21:34Z",
   "gateway": {
-    "acp_ws": "ws://bore.pub:18906",
-    "acp_http": "http://bore.pub:18906",
+    "acp_ws": "ws://bore.pub:3451",
+    "acp_http": "http://bore.pub:3451",
     "token": "minimax-agent"
   },
   "bots": {
